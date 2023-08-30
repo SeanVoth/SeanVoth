@@ -2,8 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>CVE List Generator (Python)</b>
-  - [Link](https://github.com/SeanVoth/CVE-List)
+  - [CVE List Generator](https://github.com/SeanVoth/CVE-List)
     
 <h2> 📖 Education:</h2>
 
