@@ -1,4 +1,4 @@
-<h1>Hi, my name is Sean Voth! </h1>
+<h1>Hi, my name is Mad G0at </h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
