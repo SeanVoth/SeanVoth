@@ -3,6 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
   - [CVE List Generator](https://github.com/SeanVoth/CVE-List)
+  - [Domain Cleanup](https://github.com/SeanVoth/DomainCleanup)
     
 <h2> 📖 Education:</h2>
 
