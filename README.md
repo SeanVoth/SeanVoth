@@ -1,6 +1,6 @@
 <h1>Hi, my name is Sean </h1>
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
   - [CVE List Generator](https://github.com/SeanVoth/CVE-List)
     
