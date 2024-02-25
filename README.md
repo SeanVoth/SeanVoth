@@ -5,6 +5,7 @@
   - [CVE List Generator](https://github.com/SeanVoth/CVE-List)
   - [Domain Cleanup](https://github.com/SeanVoth/DomainCleanup)
   - [Network Path Mapping (PowerShell)](https://github.com/SeanVoth/network-path-Mapping)
+  - [QR Code Decoder (Python)](https://github.com/SeanVoth/QR-Code-Decoder)
     
 <h2> 📖 Education:</h2>
 
