@@ -22,6 +22,7 @@
       - SANS
         - FOR500: Windows Forensic Analysis
         - SEC511: Continuous Monitoring and Security Operations
+        - SEC497: Practical Open-Source Intelligence
         - SEC587: Advanced Open-Source Intelligence Gathering and Analysis   
       - Self Trainings
         - PowerShell: Scripting for Server Administration   * LinkedIn Learning
