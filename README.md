@@ -8,6 +8,7 @@
   - [QR Code Decoder (Python)](https://github.com/SeanVoth/QR-Code-Decoder)
   - [Net User Password Age Checker (Powershell)](https://github.com/SeanVoth/Net_User_Password_checker)
   - [SubDomain Cleanup (Powershell)](https://github.com/SeanVoth/Subdomin-Cleanup-Powershell-)
+  - [Greynoise RIOT/Benign Checker (Powershell)]((https://github.com/SeanVoth/Greynoise-RiotControl))
     
 <h2> 📖 Education:</h2>
 
