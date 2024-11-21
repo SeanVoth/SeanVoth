@@ -3,13 +3,14 @@
 <h2>👨‍💻 Projects:</h2>
 
   - [CVE List Generator](https://github.com/SeanVoth/CVE-List)
-  - [Domain Cleanup](https://github.com/SeanVoth/DomainCleanup)
+  - [DomainCleaner(Powershell)](https://github.com/SeanVoth/DomainCleaner/)
+  - [Net User Password Age Checker (Powershell)](https://github.com/SeanVoth/Net_User_Password_checker)
+  - [Greynoise RIOT/Benign Checker (Powershell)](https://github.com/SeanVoth/Greynoise-RiotControl)
   - [Network Path Mapping (PowerShell)](https://github.com/SeanVoth/network-path-Mapping)
   - [QR Code Decoder (Python)](https://github.com/SeanVoth/QR-Code-Decoder)
-  - [Net User Password Age Checker (Powershell)](https://github.com/SeanVoth/Net_User_Password_checker)
-  - [SubDomain Cleanup (Powershell)](https://github.com/SeanVoth/Subdomin-Cleanup-Powershell-)
-  - [Greynoise RIOT/Benign Checker (Powershell)](https://github.com/SeanVoth/Greynoise-RiotControl)
-  - [DomainCleaner(Powershell)](https://github.com/SeanVoth/DomainCleaner/)
+  - [Domain Cleanup (OLD)](https://github.com/SeanVoth/DomainCleanup)
+  - [SubDomain Cleanup (Powershell) (OLD)](https://github.com/SeanVoth/Subdomin-Cleanup-Powershell-) 
+
     
 <h2> 📖 Education:</h2>
 
