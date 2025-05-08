@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
   - [4chan_telegram_bot (Python)](https://github.com/SeanVoth/4chan_telegram_bot)
-  - [IPLogger Tracker Spin UP (Python)](https://github.com/SeanVoth/Subdomin-Cleanup-Powershell-) 
+  - [IPLogger Tracker Spin UP (Python)](https://github.com/SeanVoth/IPLogger_Spin_Up/tree/main) 
   - [CVE List Generator](https://github.com/SeanVoth/CVE-List)
   - [DomainCleaner(Powershell)](https://github.com/SeanVoth/DomainCleaner/)
   - [AD-ContingentWorker_Scrape(Powershell)](https://github.com/SeanVoth/AD-ContingentWorker_Scrape)
