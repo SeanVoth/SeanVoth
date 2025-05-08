@@ -2,7 +2,8 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-  - [4chan_telegram_bot (Python)](https://github.com/SeanVoth/4chan_telegram_bot) 
+  - [4chan_telegram_bot (Python)](https://github.com/SeanVoth/4chan_telegram_bot)
+  - [IPLogger Tracker Spin UP (Python)](https://github.com/SeanVoth/Subdomin-Cleanup-Powershell-) 
   - [CVE List Generator](https://github.com/SeanVoth/CVE-List)
   - [DomainCleaner(Powershell)](https://github.com/SeanVoth/DomainCleaner/)
   - [AD-ContingentWorker_Scrape(Powershell)](https://github.com/SeanVoth/AD-ContingentWorker_Scrape)
@@ -11,7 +12,8 @@
   - [Network Path Mapping (PowerShell)](https://github.com/SeanVoth/network-path-Mapping)
   - [QR Code Decoder (Python)](https://github.com/SeanVoth/QR-Code-Decoder)
   - [Domain Cleanup (OLD)](https://github.com/SeanVoth/DomainCleanup)
-  - [SubDomain Cleanup (Powershell) (OLD)](https://github.com/SeanVoth/Subdomin-Cleanup-Powershell-) 
+  - [SubDomain Cleanup (Powershell) (OLD)](https://github.com/SeanVoth/Subdomin-Cleanup-Powershell-)
+  
 
     
 <h2> 📖 Education:</h2>
